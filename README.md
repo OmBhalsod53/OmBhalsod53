@@ -9,6 +9,8 @@ Hi 👋, I'm Om Bhalsod<br><br>💻 Junior Software Developer<br>🌐 Passionate
 ![](https://streak-stats.demolab.com/?user=OmBhalsod53&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=OmBhalsod53&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+
 ---
 [![](https://komarev.com/ghpvc/?username=OmBhalsod53&icon=0&color=0)](https://visitcount.itsvg.in)
 
