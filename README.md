@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Om Bhalsod<br><br>💻 Junior Software Developer<br>🌐 Passionate about Web Development and creating responsive, user-friendly websites.<br>🚀 Continuously learning new technologies and building modern web applications.
 
-<img align="right" alt="Coding" width="420"
+<img align="right" alt="Coding" width="42" hight="100"
 src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 # 💻 Tech Stack:
