@@ -39,7 +39,9 @@ Hi 👋, I'm **Om Bhalsod**
 
 ---
 
+# 👀 Profile Views
 
+[![](https://komarev.com/ghpvc/?username=OmBhalsod53&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
