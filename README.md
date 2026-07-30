@@ -1,154 +1,49 @@
-<!-- ================= HEADER ================= -->
 
-<p align="center">
-  <img src="assets/devil-intro.svg" width="100%" alt="Devil Intro"/>
-</p>
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 
-<h1 align="center">
-  👑 OM BHALSOD 👑
-</h1>
+# 💫 About Me
 
-<h3 align="center">
-⚔️ Junior Software Developer • Devil Mode Activated ⚔️
-</h3>
+Hi 👋, I'm **Om Bhalsod**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=850&lines=ENTER+THE+DARKNESS;BUILDING+THE+IMPOSSIBLE;CODE+IS+MY+WEAPON;WELCOME+TO+THE+DEVIL'S+GATE" />
-</p>
+💻 **Junior Software Developer**  
+🌐 Passionate about Web Development and creating responsive, user-friendly websites.  
+🚀 Continuously learning new technologies and building modern web applications.
 
 ---
 
-<p align="center">
-<img src="assets/blood.svg" width="100%">
-</p>
+# 💻 Tech Stack
 
-# 👿 ABOUT ME
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-```text
-╔════════════════════════════════════════════╗
-║               DEVIL PROFILE               ║
-╠════════════════════════════════════════════╣
-║ 👤 Name      : Om Bhalsod                 ║
-║ 💻 Role      : Junior Software Developer  ║
-║ 🌍 Country   : India                      ║
-║ ⚔️ Mission   : Build Legendary Software   ║
-║ 🔥 Status    : Coding...                  ║
-╚════════════════════════════════════════════╝
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=OmBhalsod53&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=OmBhalsod53&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=OmBhalsod53&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+# 👀 Profile Views
+
+[![](https://komarev.com/ghpvc/?username=OmBhalsod53&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
 ```
-
----
-
-<p align="center">
-<img src="assets/fire.svg" width="100%">
-</p>
-
-# ⚔️ TECH STACK
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,react,js,php,html,css,tailwind,mysql,mongodb,django,dotnet,vite"/>
-
-</p>
-
----
-
-<p align="center">
-<img src="assets/lightning.svg" width="100%">
-</p>
-
-# 🔥 GITHUB STATS
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmBhalsod53&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=OmBhalsod53&theme=highcontrast&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmBhalsod53&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-<img src="assets/smoke.svg" width="100%">
-</p>
-
-# ⚡ DEVIL TERMINAL
-
-```bash
-root@hell:~#
-
-> Initializing...
-
-█████████████████████ 100%
-
-Loading Inferno...
-
-Loading Darkness...
-
-Loading Developer...
-
-ACCESS GRANTED
-
-Welcome Back,
-OM BHALSOD.
-```
-
----
-
-# ☠️ CURRENT MISSION
-
-```text
-⚔ Build Modern Web Applications
-
-⚔ Master Laravel
-
-⚔ Become Full Stack Engineer
-
-⚔ Build AI Products
-
-⚔ Never Stop Learning
-```
-
----
-
-# 🏆 ACHIEVEMENTS
-
-🏅 Junior Software Developer
-
-🚀 Web Development Enthusiast
-
-💻 Open Source Learner
-
-🔥 Laravel Developer
-
-⚛ React Developer
-
----
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OmBhalsod53&theme=onestar&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=OmBhalsod53&style=for-the-badge&color=red"/>
-
-</p>
-
----
-
-<h2 align="center">
-
-💀 "THE DEVIL NEVER STOPS CODING." 💀
-
-</h2>
