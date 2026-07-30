@@ -1,111 +1,49 @@
 
-<div align="center">
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 
-# ⛧ 𝐓𝐇𝐄 𝐃𝐄𝐕𝐈𝐋'𝐒 𝐕𝐀𝐔𝐋𝐓 ⛧
+# 💫 About Me
 
-```text
-████████████████████████████████████████████
+Hi 👋, I'm **Om Bhalsod**
 
-      ⚠  FORBIDDEN ACCESS DETECTED  ⚠
+💻 **Junior Software Developer**  
+🌐 Passionate about Web Development and creating responsive, user-friendly websites.  
+🚀 Continuously learning new technologies and building modern web applications.
 
-████████████████████████████████████████████
+---
 
-      Identity  : OM BHALSOD
-      Status    : DEVIL MODE ENABLED
-      Access    : ROOT
-      Threat    : HIGH
+# 💻 Tech Stack
 
-████████████████████████████████████████████
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=OmBhalsod53&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=OmBhalsod53&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=OmBhalsod53&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+# 👀 Profile Views
+
+[![](https://komarev.com/ghpvc/?username=OmBhalsod53&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
 ```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=800&lines=ENTER+THE+DARKNESS;HELL+IS+WRITTEN+IN+CODE;I+DON'T+WRITE+BUGS...;I+CREATE+NIGHTMARES." />
-
-</div>
-
----
-
-# ☠ THE DEVIL
-
-```text
-           ▄████████▄
-         ▄█▀        ▀█▄
-       ▄█              █▄
-      █     👁    👁     █
-      █        ▼        █
-      █    \_______/    █
-       █▄            ▄█
-         ▀██████████▀
-
-         THE DEVIL IS ONLINE
-```
-
----
-
-# 🩸 DEVIL PROFILE
-
-```yaml
-Name      : Om Bhalsod
-Alias     : Devil Coder
-Role      : Junior Software Developer
-Mode      : DARK
-Target    : Build Impossible Systems
-Status    : Watching...
-```
-
----
-
-# 🔥 HELL TERMINAL
-
-```bash
-root@hell:~#
-
-$ activate devil
-
-██████████████████████████
-
-Devil Mode Enabled
-
-Loading Darkness...
-
-100%
-
-Ready To Code...
-```
-
----
-
-# ⚔ WEAPONS
-
-⚡ Laravel
-⚡ React
-⚡ PHP
-⚡ JavaScript
-⚡ MySQL
-⚡ Tailwind
-⚡ Django
-
----
-
-# 🩸 WARNING
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-This profile contains dangerous levels
-of coding addiction.
-
-Proceed at your own risk.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-<div align="center">
-
-# 👁 "YOU DON'T FIND THE DEVIL."
-
-## "THE DEVIL FINDS YOU."
-
-</div>
-````
