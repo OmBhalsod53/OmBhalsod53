@@ -26,6 +26,7 @@ Hi 👋, I'm **Om Bhalsod**
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-007FFF.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
