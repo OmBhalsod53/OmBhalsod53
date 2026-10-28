@@ -1,130 +1,50 @@
-&#x20;\<img align="right" alt="Coding Animation" width="380" src="[https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)">
 
-# 👋 Hi, I'm Om Bhalsod
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 
-### 💻 Junior Software Engineer at UEST
+# 💫 About Me
 
-**Web Development | Laravel & PHP | JavaScript | MySQL | ERP Systems**
+Hi 👋, I'm **Om Bhalsod**
 
-I'm a software engineer passionate about building reliable web applications, developing practical software solutions, and improving user experiences through clean, maintainable code.
-
-I have worked on **50+ production modules in a School ERP system**, contributing to student and staff management, examinations, attendance, finance, dashboards, and other essential school operations.
-
-- 🔭 Working on web development and enterprise application features
-- 💻 Developing backend functionality and responsive user interfaces
-- ⚙️ Interested in API integration, database management, and application optimization
-- 🧩 Enjoy solving problems, debugging, and refactoring code
-- 🌱 Continuously learning new technologies and modern development practices
-- 🎯 Focused on clean code, maintainability, and practical software engineering
+💻 **Junior Software Developer**  
+🌐 Passionate about Web Development and creating responsive, user-friendly websites.  
+🚀 Continuously learning new technologies and building modern web applications.
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### 💻 Languages & Web Technologies
-
-
-
-
-\
-
-
-### 🚀 Frameworks & Libraries
-
-
-
-
-
-
-\
-
-
-### 🗄️ Databases
-
-
-\
-
-
-### 🔌 APIs & Development Tools
-
-
-
-
-\
-
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-007FFF.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects & Contributions
+# 📊 GitHub Stats
 
-### 🏫 School ERP System
+![](https://github-readme-stats.shion.dev/api?username=OmBhalsod53&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-- Contributed to 50+ production modules supporting school administration and daily operations.
-- Worked on student and staff management, examinations, attendance, finance, and dashboards.
-- Improved application functionality through bug fixes, performance optimization, and responsive UI enhancements.
+![](https://streak-stats.demolab.com/?user=OmBhalsod53&theme=dark&hide_border=false)
 
-### ⚡ Quick Update Center
-
-- Contributed to a centralized interface for updating student and staff information.
-- Worked on dynamic field discovery, validation, inline editing, and image uploads.
-- Integrated filtering, bulk updates, and spreadsheet import/export workflows.
-
-### 📚 Library Management System
-
-- Worked on book management, categories, circulation, and book request workflows.
-- Contributed to barcode-based issue and return operations, stock tracking, and overdue calculations.
-- Improved reusable service architecture and consistent ERP interface design.
-
-### 🗳️ Poll Management Module
-
-- Worked on voting workflows, notifications, audience targeting, and analytics.
-
-### 🌐 Multilingual ERP Features
-
-- Implemented English–Gujarati language switching for the School ERP interface.
-- Worked on API-based translation of circular content into English, Gujarati, and Hindi.
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=OmBhalsod53&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
-## 🧠 Areas of Interest
+# 👀 Profile Views
 
-- Backend Development & Web Application Architecture
-- REST API Integration & Asynchronous Requests
-- Database Design & Query Optimization
-- Clean Code, Refactoring & Debugging
-- Responsive UI & User Experience
-- Enterprise Resource Planning (ERP) Systems
-- Problem Solving & Continuous Learning
+[![](https://komarev.com/ghpvc/?username=OmBhalsod53&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
-## 📊 GitHub Statistics
-
-\<p align="center">
-&#x20; \<img width="49%" src="[https://github-readme-stats.shion.dev/api?username=OmBhalsod53&theme=dark&hide_border=false&include_all_commits=true&count_private=true](https://github-readme-stats.shion.dev/api?username=OmBhalsod53\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)" alt="Om Bhalsod's GitHub Stats" />
-&#x20; \<img width="49%" src="[https://streak-stats.demolab.com/?user=OmBhalsod53&theme=dark&hide_border=false](https://streak-stats.demolab.com/?user=OmBhalsod53\&theme=dark\&hide_border=false)" alt="Om Bhalsod's GitHub Streak" />
-\</p>
-
-\<p align="center">
-&#x20; \<img width="45%" src="[https://github-readme-stats.shion.dev/api/top-langs/?username=OmBhalsod53&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.shion.dev/api/top-langs/?username=OmBhalsod53\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)" alt="Most Used Programming Languages" />
-\</p>
-
----
-
-## 👀 Profile Visitors
-
-\<p align="left">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=OmBhalsod53&label=Profile%20Views&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=OmBhalsod53\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge)" alt="Profile Views" />
-\</p>
-
----
-
-## 💬 Let's Connect
-
-I'm interested in learning, collaborating on software projects, and exploring new technologies.
-
-**Keep learning. Keep building. Keep improving.** 🚀
-
-\<p align="center">
-&#x20; \<i>"Great software is built through curiosity, consistency, and continuous improvement."\</i>
-\</p>
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+```
