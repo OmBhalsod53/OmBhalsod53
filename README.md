@@ -5,12 +5,6 @@
 
 Hi 👋, I'm **Om Bhalsod**
 
-
-<p align="right">
-  <img src="./Logos3.png" alt="OM BHALSOD" width="420">
-</p>
-
-
 💻 **Junior Software Developer**  
 🌐 Passionate about Web Development and creating responsive, user-friendly websites.  
 🚀 Continuously learning new technologies and building modern web applications.
